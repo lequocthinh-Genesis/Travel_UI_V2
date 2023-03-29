@@ -4,7 +4,7 @@
 
 ## Mô tả project:
 
-Đây là project xây dựng giao diện của một web site travel, project này chỉ áp dụng những kiến thức cơ bản như: `HTML`, `CSS`, `SCSS`, `Javascript`, `Font Awesome`, `web responsive`, `Git`, `Github`, học các sử dụng animation trên web site và sử dụng thư viện `AOS` bằng CDN.
+Đây là project xây dựng giao diện của một web site travel, project này chỉ áp dụng những kiến thức cơ bản như: `HTML`, `CSS`, `SCSS`, `Javascript`, `Font Awesome`, `web responsive`, `Git`, `Github`, học cách sử dụng animation trên web site và sử dụng thư viện `AOS` bằng CDN.
 
 ## Link xem trực tiếp trên web:
 
